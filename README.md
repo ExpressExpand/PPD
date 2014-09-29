@@ -14,4 +14,5 @@ How to Install
 
 Notes
 - This uses Adscend Media's Offers API.
-- Scripts may need some fixing and may be insecure.
+- Scripts need some fixing and may be insecure.
+- Code looks ugly.
