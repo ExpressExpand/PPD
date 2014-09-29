@@ -1,0 +1,28 @@
+.clear{
+    clear:both;
+}
+ul#nav{
+    list-style-type:none;
+    margin:0; 
+    padding:0;
+}
+ul#nav li{
+    background:#fff; 
+    float:left;
+}
+ul#nav li a{
+    display:block; 
+    padding: 4px 8px;
+    color:#000;
+    text-decoration:none; 
+}
+ul#nav li ul li{
+    float:none;
+}
+ul#nav li ul {
+    position:absolute;
+    display:none;
+}
+ul#nav li:hover ul{
+    display:block;
+}
